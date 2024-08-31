@@ -1,0 +1,128 @@
+{
+  "project_info": {
+    "project_number": "809390235305",
+    "firebase_url": "https://udelivery-97b48.firebaseio.com",
+    "project_id": "udelivery-97b48",
+    "storage_bucket": "udelivery-97b48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809390235305:android:96c38915e6871d1ee513b8",
+        "android_client_info": {
+          "package_name": "app.techquadra.udelivery"
+        }
+      },
+      
+      "oauth_client": [
+        {
+          "client_id": "809390235305-vp3t6ddu44jh0qgiqerb4i6u54otenv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvY5fagFumCVRrzEyt0nNuW94n_1mv9Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809390235305-vp3t6ddu44jh0qgiqerb4i6u54otenv8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "809390235305-fj9agrh8t25i7hectkj0deeqpggos41i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.techquadra.udelivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809390235305:android:efc0155139fa17e7e513b8",
+        "android_client_info": {
+          "package_name": "com.defaultcompany.udliverycampus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809390235305-iokh7a24pim6n2uk9mq50igl0a3h1fi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.defaultcompany.udliverycampus",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "809390235305-vp3t6ddu44jh0qgiqerb4i6u54otenv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvY5fagFumCVRrzEyt0nNuW94n_1mv9Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809390235305-vp3t6ddu44jh0qgiqerb4i6u54otenv8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "809390235305-fj9agrh8t25i7hectkj0deeqpggos41i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.techquadra.udelivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809390235305:android:ee0467f5625495f2e513b8",
+        "android_client_info": {
+          "package_name": "com.udlivery.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809390235305-vp3t6ddu44jh0qgiqerb4i6u54otenv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvY5fagFumCVRrzEyt0nNuW94n_1mv9Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809390235305-vp3t6ddu44jh0qgiqerb4i6u54otenv8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "809390235305-fj9agrh8t25i7hectkj0deeqpggos41i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.techquadra.udelivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

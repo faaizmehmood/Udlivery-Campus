@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTDPLIST1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>CFBundleDevelopmentRegion</key>
+        <string>en</string>
+        <key>CFBundleDisplayName</key>
+        <string>Udlivery</string>
+        <key>CFBundleExecutable</key>
+        <string>$(EXECUTABLE_NAME)</string>
+        <key>CFBundleIdentifier</key>
+        <string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+        <key>CFBundleInfoDictionaryVersion</key>
+        <string>6.0</string>
+        <key>CFBundleName</key>
+        <string>$(PRODUCT_NAME)</string>
+        <key>CFBundlePackageType</key>
+        <string>APPL</string>
+        <key>CFBundleShortVersionString</key>
+        <string>$(MARKETING_VERSION)</string>
+        <key>CFBundleSignature</key>
+        <string>????</string>
+        <key>CFBundleVersion</key>
+        <string>$(CURRENT_PROJECT_VERSION)</string>
+        <key>LSRequiresIPhoneOS</key>
+        <true/>
+        <key>NSAppTransportSecurity</key>
+        <dict>
+            <key>NSExceptionDomains</key>
+            <dict>
+                <key>localhost</key>
+                <dict>
+                    <key>NSExceptionAllowsInsecureHTTPLoads</key>
+                    <true/>
+                </dict>
+            </dict>
+        </dict>
+        <key>NSLocationWhenInUseUsageDescription</key>
+        <string></string>
+
+        <key>UIRequiredDeviceCapabilities</key>
+        <array>
+            <string>armv7</string>
+        </array>
+        <key>UISupportedInterfaceOrientations</key>
+        <array>
+            <string>UIInterfaceOrientationPortrait</string>
+            <string>UIInterfaceOrientationLandscapeLeft</string>
+            <string>UIInterfaceOrientationLandscapeRight</string>
+        </array>
+
+        <key>CFBundleURLTypes</key>
+        <array>
+            <dict>
+                <key>CFBundleTypeRole</key>
+                <string>Editor</string>
+                <key>CFBundleURLSchemes</key>
+                <array>
+                    <string>fb3235639173377972</string>
+                </array>
+            </dict>
+            <dict>
+                <key>CFBundleTypeRole</key>
+                <string>Editor</string>
+                <key>CFBundleURLSchemes</key>
+                <array>
+                    <string>com.googleusercontent.apps.809390235305-onq1uq6o3q1p9dpa7qmln0d7hgivdme3</string>
+                </array>
+            </dict>
+        </array>
+        <key>CFBundleVersion</key>
+        <string>$(CURRENT_PROJECT_VERSION)</string>
+        <key>FacebookAppID</key>
+        <string>3235639173377972</string>
+        <key>FacebookClientToken</key>
+        <string>b915f898e2a6dbde778cbafe76c1e657</string>
+        <key>FacebookDisplayName</key>
+        <string>Free Trade</string>
+        <key>LSApplicationQueriesSchemes</key>
+        <array>
+            <string>fbapi</string>
+            <string>fb-messenger-share-api</string>
+            <string>fbauth2</string>
+            <string>fbshareextension</string>
+        </array>
+        <key>LSRequiresIPhoneOS</key>
+        <true/>
+        <key>NSAppTransportSecurity</key>
+        <dict>
+            <key>NSExceptionDomains</key>
+            <dict>
+                <key>localhost</key>
+                <dict>
+                    <key>NSExceptionAllowsInsecureHTTPLoads</key>
+                    <true/>
+                </dict>
+            </dict>
+        </dict>
+        <key>NSCameraUsageDescription</key>
+        <string>Udlivery Campus would like to access your Camera for App Profile Photo Uploading. Your photos won't be shared without your permission.</string>
+        <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+        <string>Udlivery Campus would like to access your location for near by users and products.</string>
+        <key>NSLocationAlwaysUsageDescription</key>
+        <string>Udlivery Campus would like to access your location for near by users and products.</string>
+        <key>NSLocationWhenInUseUsageDescription</key>
+        <string>OnTask would like to access your location for near by users and products.</string>
+        <key>NSMicrophoneUsageDescription</key>
+        <string>Udlivery Campus would like to access your Photo Library for App Profile Photo Uploading. Your photos won't be shared without your permission.</string>
+        <key>NSPhotoLibraryAddUsageDescription</key>
+        <string>Udlivery Campus would like to access your Photo Library for App Profile Photo Uploading. Your photos won't be shared without your permission.</string>
+        <key>NSPhotoLibraryUsageDescription</key>
+        <string>Udlivery Campus would like to access your Photo Library for App Profile Photo Uploading. Your photos won't be shared without your permission.</string>
+        <key>UIAppFonts</key>
+        <array>
+            <string>MaterialIcons.ttf</string>
+            <string>Outfit-Thin.otf</string>
+            <string>Outfit-SemiBold.otf</string>
+            <string>Outfit-Regular.otf</string>
+            <string>Outfit-Medium.otf</string>
+            <string>Outfit-Light.otf</string>
+            <string>Outfit-ExtraLight.otf</string>
+            <string>Outfit-ExtraBold.otf</string>
+            <string>Outfit-Bold.otf</string>
+            <string>Outfit-Black.otf</string>
+        </array>
+        <key>UIViewControllerBasedStatusBarAppearance</key>
+        <false/>
+        <key>CFBundleIcons</key>
+        <dict>
+            <key>CFBundlePrimaryIcon</key>
+            <dict>
+                <key>CFBundleIconFiles</key>
+                <array>
+                    <string>AppIcon</string>
+                </array>
+                <key>UIPrerenderedIcon</key>
+                <true/>
+            </dict>
+        </dict>
+
+    </dict>
+</plist>
